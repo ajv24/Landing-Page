@@ -1,0 +1,10 @@
+body {
+	background: url(http://fujifilm.com.sg/Products/digital_cameras/x/fujifilm_x_t1/sample_images/img/index/ff_x_t1_001.JPG) no-repeat center center fixed;
+	background-size: cover	
+}
+
+#content
+{
+	text-align: center;
+	padding-top: 25%;
+}
