@@ -1,2 +1,2 @@
 # Landing-Page
-Landing Page for a natural conservation website
+Landing Page for a nature conservation website
